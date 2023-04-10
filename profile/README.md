@@ -24,6 +24,8 @@ Our current projects are:
 
 - [alveusgg](https://github.com/alveusgg/alveusgg) - Open-source website for Alveus, built with
   Next.js and Tailwind
+- [extension](https://github.com/alveusgg/extension) - Twitch extension for Alveus, educating
+  livestream viewers
 
 [header]: https://raw.githubusercontent.com/alveusgg/.github/main/profile/header.png
 [alveus]: https://www.alveussanctuary.org
